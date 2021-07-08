@@ -64,12 +64,13 @@ public class Question2 {
 
       // while stack is not empty we continue to partition and swap
       while (stackPointer >= 0) {
-        // Get the ending index and the starting indexes then subtract
-        // Set pivot element at its correct position in sorted array
+        // Get the ending index and the starting indexes
         endIndex = stack[stackPointer];
         stackPointer--;
         startIndex = stack[stackPointer];
         stackPointer--;
+
+        // Set pivot element at its correct position
         int p = partition(startIndex, endIndex);
 
         // If elements on left of pivot then add them to the left of the stack
