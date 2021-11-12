@@ -1,0 +1,8 @@
+Sep 30, 2021 1:18:15 AM Clients.TCPClient main
+INFO: Information message
+Sep 30, 2021 1:18:15 AM Clients.TCPClient main
+WARNING: Warning message
+Sep 30, 2021 1:18:15 AM Clients.TCPClient main
+INFO: Log started at 2021-09-30 01:18:15.989
+Sep 30, 2021 1:18:22 AM Clients.TCPClient main
+INFO: Attempting to connect to: localhost at port: 123 at 2021-09-30 01:18:22.712

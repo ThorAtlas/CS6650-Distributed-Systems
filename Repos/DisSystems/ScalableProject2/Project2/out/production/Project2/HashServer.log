@@ -1,0 +1,36 @@
+Oct 19, 2021 10:51:32 PM Server.HashServer <init>
+INFO: Log started at 2021-10-19 22:51:32.943
+Oct 19, 2021 10:51:32 PM Server.HashServer runTests
+INFO: TESTS STARTED at 2021-10-19 22:51:32.971
+Oct 19, 2021 10:51:32 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:51:32.974
+Oct 19, 2021 10:51:32 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:51:32.982
+Oct 19, 2021 10:51:32 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:51:32.983
+Oct 19, 2021 10:51:32 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:51:32.985
+Oct 19, 2021 10:51:32 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:51:32.987
+Oct 19, 2021 10:51:32 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:51:32.989
+Oct 19, 2021 10:51:32 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:51:32.992
+Oct 19, 2021 10:51:32 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:51:32.994
+Oct 19, 2021 10:51:32 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:51:32.996
+Oct 19, 2021 10:51:32 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:51:32.998
+Oct 19, 2021 10:51:33 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:51:33.000
+Oct 19, 2021 10:51:33 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:51:33.001
+Oct 19, 2021 10:51:33 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:51:33.003
+Oct 19, 2021 10:51:33 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:51:33.005
+Oct 19, 2021 10:51:33 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:51:33.008
+Oct 19, 2021 10:51:33 PM Server.HashServer runTests
+INFO: TEST FINISHED at 2021-10-19 22:51:33.011

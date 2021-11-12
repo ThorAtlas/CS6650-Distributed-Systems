@@ -1,0 +1,260 @@
+Oct 18, 2021 6:30:32 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 18:30:32.480
+Oct 18, 2021 6:51:34 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 18:51:34.265
+Oct 18, 2021 6:51:34 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 18:51:34.789
+Oct 18, 2021 6:51:39 PM Project2.Server.HashClient main
+INFO: Successful put request at 2021-10-18 18:51:39.319
+Oct 18, 2021 6:51:43 PM Project2.Server.HashClient main
+INFO: Unsuccessful put request at 2021-10-18 18:51:43.928
+Oct 18, 2021 6:51:43 PM Project2.Server.HashClient main
+INFO: Successful put request at 2021-10-18 18:51:43.930
+Oct 18, 2021 6:52:22 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 18:52:22.496
+Oct 18, 2021 6:52:22 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 18:52:22.725
+Oct 18, 2021 6:52:25 PM Project2.Server.HashClient main
+INFO: Unsuccessful put request at 2021-10-18 18:52:25.541
+Oct 18, 2021 6:52:31 PM Project2.Server.HashClient main
+INFO: Successful put request at 2021-10-18 18:52:31.601
+Oct 18, 2021 6:52:33 PM Project2.Server.HashClient main
+INFO: Successful get request at 2021-10-18 18:52:33.759
+Oct 18, 2021 6:52:36 PM Project2.Server.HashClient main
+INFO: Successful delete request at 2021-10-18 18:52:36.088
+Oct 18, 2021 7:47:08 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 19:47:08.035
+Oct 18, 2021 7:47:08 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 19:47:08.355
+Oct 18, 2021 7:47:11 PM Project2.Server.HashClient main
+INFO: Successful put request at 2021-10-18 19:47:11.315
+Oct 18, 2021 7:47:14 PM Project2.Server.HashClient main
+INFO: Successful get request at 2021-10-18 19:47:14.625
+Oct 18, 2021 7:47:18 PM Project2.Server.HashClient main
+INFO: Successful delete request at 2021-10-18 19:47:18.118
+Oct 18, 2021 7:47:24 PM Project2.Server.HashClient main
+INFO: Successful get request at 2021-10-18 19:47:24.210
+Oct 18, 2021 8:21:50 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:21:50.674
+Oct 18, 2021 8:21:52 PM Project2.Server.HashClient main
+WARNING: Unsuccessful connection
+Oct 18, 2021 8:23:32 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:23:32.892
+Oct 18, 2021 8:23:33 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 20:23:33.474
+Oct 18, 2021 8:23:44 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:23:44.347
+Oct 18, 2021 8:24:01 PM Project2.Server.HashClient main
+INFO: Successful delete request of oneat 2021-10-18 20:24:01.097
+Oct 18, 2021 8:24:06 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:24:06.204
+Oct 18, 2021 8:25:33 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:25:33.337
+Oct 18, 2021 8:25:33 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 20:25:33.600
+Oct 18, 2021 8:25:36 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:25:36.832
+Oct 18, 2021 8:25:40 PM Project2.Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-18 20:25:40.716
+Oct 18, 2021 8:25:52 PM Project2.Server.HashClient main
+INFO: Unsuccessful get request for one at 2021-10-18 20:25:52.612
+Oct 18, 2021 8:46:56 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:46:56.802
+Oct 18, 2021 8:46:57 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 20:46:57.047
+Oct 18, 2021 8:46:57 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 8:46:57 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 8:47:09 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:47:09.061
+Oct 18, 2021 8:48:43 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:48:43.678
+Oct 18, 2021 8:48:44 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 20:48:44.477
+Oct 18, 2021 8:48:44 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 8:48:44 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 8:48:59 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:48:59.038
+Oct 18, 2021 8:49:03 PM Project2.Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-18 20:49:03.837
+Oct 18, 2021 8:49:05 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:49:05.399
+Oct 18, 2021 8:49:21 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 20:49:21.664
+Oct 18, 2021 8:49:21 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 20:49:21.862
+Oct 18, 2021 8:49:21 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 8:49:21 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 8:49:25 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 20:49:25.909
+Oct 18, 2021 8:49:36 PM Project2.Server.HashClient main
+INFO: Unsuccessful get request for one at 2021-10-18 20:49:36.145
+Oct 18, 2021 9:49:18 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 21:49:18.963
+Oct 18, 2021 9:49:21 PM Project2.Server.HashClient main
+WARNING: Unsuccessful connection
+Oct 18, 2021 10:00:12 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:00:12.139
+Oct 18, 2021 10:00:12 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:00:12.393
+Oct 18, 2021 10:00:12 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:00:12 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:00:16 PM Project2.Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-18 22:00:16.786
+Oct 18, 2021 10:33:03 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:33:03.151
+Oct 18, 2021 10:33:03 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:33:03.392
+Oct 18, 2021 10:33:03 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:33:03 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:34:07 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:34:07.492
+Oct 18, 2021 10:34:07 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:34:07.693
+Oct 18, 2021 10:34:07 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:34:07 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:34:36 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:34:36.572
+Oct 18, 2021 10:34:36 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:34:36.858
+Oct 18, 2021 10:34:36 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:34:36 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:34:42 PM Project2.Server.HashClient main
+INFO: Got count request at 2021-10-18 22:34:42.080
+Oct 18, 2021 10:39:59 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:39:59.765
+Oct 18, 2021 10:40:00 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:40:00.094
+Oct 18, 2021 10:40:00 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:40:00 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:40:04 PM Project2.Server.HashClient main
+INFO: Got count request at 2021-10-18 22:40:04.415
+Oct 18, 2021 10:40:31 PM Project2.Server.HashClient main
+INFO: Got count request at 2021-10-18 22:40:31.166
+Oct 18, 2021 10:48:51 PM Project2.Server.HashClient main
+INFO: Log started at 2021-10-18 22:48:51.680
+Oct 18, 2021 10:48:52 PM Project2.Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-18 22:48:52.005
+Oct 18, 2021 10:48:52 PM Project2.Server.HashClient runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:48:52 PM Project2.Server.HashClient runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:48:59 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 22:48:59.610
+Oct 18, 2021 10:49:01 PM Project2.Server.HashClient main
+INFO: Successful get request for two at 2021-10-18 22:49:01.881
+Oct 18, 2021 10:49:04 PM Project2.Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-18 22:49:04.038
+Oct 18, 2021 10:49:04 PM Project2.Server.HashClient main
+INFO: Successful get request for one at 2021-10-18 22:49:04.912
+Oct 19, 2021 10:10:25 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:10:25.512
+Oct 19, 2021 10:10:26 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:10:26.103
+Oct 19, 2021 10:10:26 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:10:26.104
+Oct 19, 2021 10:10:26 PM Server.HashClient main
+WARNING: Unsuccessful connection
+Oct 19, 2021 10:13:54 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:13:54.825
+Oct 19, 2021 10:13:55 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:13:55.253
+Oct 19, 2021 10:13:55 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:13:55.254
+Oct 19, 2021 10:13:55 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:13:55.293
+Oct 19, 2021 10:13:58 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:13:58.530
+Oct 19, 2021 10:14:00 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:14:00.937
+Oct 19, 2021 10:14:03 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:14:03.921
+Oct 19, 2021 10:14:09 PM Server.HashClient main
+INFO: ADDED PAIR one : three at 2021-10-19 22:14:09.258
+Oct 19, 2021 10:14:13 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:14:13.281
+Oct 19, 2021 10:15:41 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:15:41.853
+Oct 19, 2021 10:15:44 PM Server.HashClient main
+INFO: Successful get request for two at 2021-10-19 22:15:44.996
+Oct 19, 2021 10:15:49 PM Server.HashClient main
+INFO: Successful delete request of oneat 2021-10-19 22:15:49.210
+Oct 19, 2021 10:15:52 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:15:52.317
+Oct 19, 2021 10:15:54 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:15:54.955
+Oct 19, 2021 10:16:07 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:16:07.756
+Oct 19, 2021 10:18:55 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:18:55.179
+Oct 19, 2021 10:18:55 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:18:55.518
+Oct 19, 2021 10:18:55 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:18:55.519
+Oct 19, 2021 10:18:55 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:18:55.563
+Oct 19, 2021 10:19:00 PM Server.HashClient main
+INFO: ADDED PAIR one : twon at 2021-10-19 22:19:00.178
+Oct 19, 2021 10:19:04 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:19:04.026
+Oct 19, 2021 10:21:20 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:21:20.055
+Oct 19, 2021 10:21:20 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:21:20.332
+Oct 19, 2021 10:21:20 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:21:20.333
+Oct 19, 2021 10:21:20 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:21:20.365
+Oct 19, 2021 10:21:24 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:21:24.433
+Oct 19, 2021 10:21:27 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:21:27.577
+Oct 19, 2021 10:21:31 PM Server.HashClient main
+INFO: Unsuccessful put request at 2021-10-19 22:21:31.911
+Oct 19, 2021 10:21:55 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:21:55.360
+Oct 19, 2021 10:21:55 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:21:55.602
+Oct 19, 2021 10:21:55 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:21:55.606
+Oct 19, 2021 10:21:55 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:21:55.636
+Oct 19, 2021 10:21:58 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:21:58.601
+Oct 19, 2021 10:23:34 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:23:34.011
+Oct 19, 2021 10:23:34 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:23:34.309
+Oct 19, 2021 10:23:34 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:23:34.310
+Oct 19, 2021 10:23:34 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:23:34.338
+Oct 19, 2021 10:23:37 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:23:37.697
+Oct 19, 2021 10:23:51 PM Server.HashClient main
+INFO: Log started at 2021-10-19 22:23:51.307
+Oct 19, 2021 10:23:51 PM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-19 22:23:51.552
+Oct 19, 2021 10:23:51 PM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-19 22:23:51.553
+Oct 19, 2021 10:23:51 PM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-19 22:23:51.583
+Oct 19, 2021 10:23:54 PM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-19 22:23:54.283
+Oct 19, 2021 10:23:56 PM Server.HashClient main
+INFO: Successful get request for one at 2021-10-19 22:23:56.035

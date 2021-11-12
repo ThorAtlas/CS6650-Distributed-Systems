@@ -1,0 +1,926 @@
+Oct 18, 2021 6:46:16 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 18:46:16.039
+Oct 18, 2021 6:51:31 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 18:51:31.194
+Oct 18, 2021 6:51:39 PM Project2.Server.HashServer putHandler
+INFO: Put request 2021-10-18 18:51:39.326
+Oct 18, 2021 6:51:43 PM Project2.Server.HashServer putHandler
+INFO: Put request 2021-10-18 18:51:43.931
+Oct 18, 2021 6:52:31 PM Project2.Server.HashServer putHandler
+INFO: Put request 2021-10-18 18:52:31.605
+Oct 18, 2021 6:52:33 PM Project2.Server.HashServer getHandler
+INFO: Get request 2021-10-18 18:52:33.761
+Oct 18, 2021 6:52:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request 2021-10-18 18:52:36.090
+Oct 18, 2021 7:47:03 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 19:47:03.732
+Oct 18, 2021 7:47:11 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 19:47:11.320
+Oct 18, 2021 7:47:14 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 19:47:14.627
+Oct 18, 2021 7:47:18 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for one at 2021-10-18 19:47:18.120
+Oct 18, 2021 7:47:24 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 19:47:24.214
+Oct 18, 2021 8:22:33 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 20:22:33.877
+Oct 18, 2021 8:23:29 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 20:23:29.652
+Oct 18, 2021 8:23:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 20:23:41.283
+Oct 18, 2021 8:23:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:23:44.345
+Oct 18, 2021 8:24:01 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for one at 2021-10-18 20:24:01.095
+Oct 18, 2021 8:24:06 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:24:06.203
+Oct 18, 2021 8:25:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:25:36.830
+Oct 18, 2021 8:25:40 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 20:25:40.715
+Oct 18, 2021 8:46:53 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 20:46:53.656
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:46:57.053
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:46:57.063
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:46:57.065
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:46:57.067
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:46:57.069
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:46:57.071
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:46:57.073
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:46:57.074
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:46:57.076
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:46:57.078
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:46:57.080
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:46:57.082
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:46:57.086
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:46:57.088
+Oct 18, 2021 8:46:57 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:46:57.090
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:46:58.933
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:46:58.936
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:46:58.938
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:46:58.940
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:46:58.943
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:46:58.944
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:46:58.946
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:46:58.948
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:46:58.949
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:46:58.951
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:46:58.953
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:46:58.955
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:46:58.957
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:46:58.959
+Oct 18, 2021 8:46:58 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:46:58.961
+Oct 18, 2021 8:47:09 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:47:09.060
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:48:44.483
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:48:44.484
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:48:44.486
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:48:44.488
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:48:44.490
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:48:44.491
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:48:44.493
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:48:44.496
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:48:44.498
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:48:44.500
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:48:44.502
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:48:44.505
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:48:44.506
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:48:44.508
+Oct 18, 2021 8:48:44 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:48:44.510
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:48:52.494
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:48:52.496
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:48:52.498
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:48:52.499
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:48:52.501
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:48:52.502
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:48:52.504
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:48:52.506
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:48:52.508
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:48:52.509
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:48:52.514
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:48:52.515
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:48:52.517
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:48:52.518
+Oct 18, 2021 8:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:48:52.520
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:48:54.129
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:48:54.131
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:48:54.133
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:48:54.134
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:48:54.136
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:48:54.137
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:48:54.138
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:48:54.140
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:48:54.141
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:48:54.143
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:48:54.144
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:48:54.145
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:48:54.146
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:48:54.148
+Oct 18, 2021 8:48:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:48:54.149
+Oct 18, 2021 8:48:59 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:48:59.037
+Oct 18, 2021 8:49:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 20:49:03.836
+Oct 18, 2021 8:49:05 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:49:05.398
+Oct 18, 2021 8:49:09 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:49:09.349
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 20:49:21.868
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 20:49:21.869
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 20:49:21.871
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 20:49:21.872
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 20:49:21.874
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 20:49:21.876
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 20:49:21.877
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 20:49:21.879
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 20:49:21.880
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 20:49:21.882
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 20:49:21.884
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 20:49:21.885
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 20:49:21.887
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 20:49:21.889
+Oct 18, 2021 8:49:21 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 20:49:21.890
+Oct 18, 2021 8:49:25 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 20:49:25.908
+Oct 18, 2021 9:46:04 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 21:46:04.396
+Oct 18, 2021 9:46:46 PM Project2.Server.HashServer main
+INFO: Log started at 2021-10-18 21:46:46.492
+Oct 18, 2021 9:54:50 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 21:54:50.429
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 21:54:54.731
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 21:54:54.739
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 21:54:54.741
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 21:54:54.743
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 21:54:54.744
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 21:54:54.746
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 21:54:54.747
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 21:54:54.749
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 21:54:54.751
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 21:54:54.753
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 21:54:54.755
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 21:54:54.756
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 21:54:54.759
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 21:54:54.761
+Oct 18, 2021 9:54:54 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 21:54:54.763
+Oct 18, 2021 9:54:58 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 21:54:58.129
+Oct 18, 2021 9:54:59 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 21:54:59.864
+Oct 18, 2021 9:55:01 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for one at 2021-10-18 21:55:01.414
+Oct 18, 2021 9:58:49 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 21:58:49.882
+Oct 18, 2021 9:59:11 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 21:59:11.346
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:00:12.399
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:00:12.407
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:00:12.410
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:00:12.412
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:00:12.414
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:00:12.416
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:00:12.418
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:00:12.421
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:00:12.423
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:00:12.425
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:00:12.427
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:00:12.430
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:00:12.432
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:00:12.434
+Oct 18, 2021 10:00:12 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:00:12.437
+Oct 18, 2021 10:00:16 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 22:00:16.784
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:00:22.355
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:00:22.357
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:00:22.359
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:00:22.360
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:00:22.362
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:00:22.364
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:00:22.366
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:00:22.368
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:00:22.369
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:00:22.371
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:00:22.373
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:00:22.374
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:00:22.377
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:00:22.379
+Oct 18, 2021 10:00:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:00:22.380
+Oct 18, 2021 10:32:56 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 22:32:56.638
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:33:03.400
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:33:03.408
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:33:03.410
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:33:03.412
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:33:03.413
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:33:03.415
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:33:03.416
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:33:03.418
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:33:03.420
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:33:03.422
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:33:03.424
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:33:03.426
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:33:03.429
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:33:03.434
+Oct 18, 2021 10:33:03 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:33:03.440
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:34:07.698
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:34:07.701
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:34:07.702
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:34:07.704
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:34:07.706
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:34:07.708
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:34:07.710
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:34:07.712
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:34:07.714
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:34:07.716
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:34:07.718
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:34:07.720
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:34:07.722
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:34:07.724
+Oct 18, 2021 10:34:07 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:34:07.728
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:34:36.863
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:34:36.865
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:34:36.866
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:34:36.868
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:34:36.869
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:34:36.871
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:34:36.872
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:34:36.874
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:34:36.876
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:34:36.878
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:34:36.880
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:34:36.881
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:34:36.883
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:34:36.885
+Oct 18, 2021 10:34:36 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:34:36.887
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:34:38.767
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:34:38.770
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:34:38.772
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:34:38.773
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:34:38.774
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:34:38.776
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:34:38.778
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:34:38.779
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:34:38.781
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:34:38.782
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:34:38.784
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:34:38.786
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:34:38.787
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:34:38.790
+Oct 18, 2021 10:34:38 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:34:38.791
+Oct 18, 2021 10:37:24 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 22:37:24.525
+Oct 18, 2021 10:39:58 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 22:39:58.217
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:40:00.096
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:40:00.103
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:40:00.105
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:40:00.106
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:40:00.108
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:40:00.110
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:40:00.112
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:40:00.113
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:40:00.115
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:40:00.117
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:40:00.121
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:40:00.123
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:40:00.125
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:40:00.128
+Oct 18, 2021 10:40:00 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:40:00.132
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:40:22.701
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:40:22.702
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:40:22.704
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:40:22.706
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:40:22.708
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:40:22.710
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:40:22.712
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:40:22.713
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:40:22.715
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:40:22.716
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:40:22.718
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:40:22.720
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:40:22.722
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:40:22.724
+Oct 18, 2021 10:40:22 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:40:22.726
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-18 22:48:41.765
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer runTests
+INFO: TESTS STARTED
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:48:41.808
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:48:41.833
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:48:41.836
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:48:41.840
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:48:41.845
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:48:41.848
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:48:41.855
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:48:41.862
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:48:41.870
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:48:41.872
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:48:41.875
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:48:41.878
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:48:41.881
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:48:41.886
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:48:41.890
+Oct 18, 2021 10:48:41 PM Project2.Server.HashServer runTests
+INFO: TEST FINISHED
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-18 22:48:52.008
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-18 22:48:52.011
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-18 22:48:52.013
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-18 22:48:52.015
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-18 22:48:52.019
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-18 22:48:52.020
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-18 22:48:52.022
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-18 22:48:52.024
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-18 22:48:52.025
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-18 22:48:52.027
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-18 22:48:52.029
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-18 22:48:52.032
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-18 22:48:52.034
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-18 22:48:52.036
+Oct 18, 2021 10:48:52 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-18 22:48:52.038
+Oct 18, 2021 10:48:59 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 22:48:59.608
+Oct 18, 2021 10:49:01 PM Project2.Server.HashServer getHandler
+INFO: Get request for two at 2021-10-18 22:49:01.880
+Oct 18, 2021 10:49:04 PM Project2.Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-18 22:49:04.036
+Oct 18, 2021 10:49:04 PM Project2.Server.HashServer getHandler
+INFO: Get request for one at 2021-10-18 22:49:04.911
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer <init>
+INFO: Log started at 2021-10-19 22:10:20.437
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer runTests
+INFO: TESTS STARTED at 2021-10-19 22:10:20.484
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:10:20.486
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:10:20.493
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:10:20.494
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:10:20.495
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:10:20.496
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:10:20.497
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:10:20.499
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:10:20.500
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:10:20.559
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:10:20.561
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:10:20.563
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:10:20.636
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:10:20.637
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:10:20.638
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:10:20.640
+Oct 19, 2021 10:10:20 PM Project2.Server.HashServer runTests
+INFO: TEST FINISHED at 2021-10-19 22:10:20.641
+Oct 19, 2021 10:13:44 PM Server.HashServer <init>
+INFO: Log started at 2021-10-19 22:13:44.591
+Oct 19, 2021 10:13:44 PM Server.HashServer runTests
+INFO: TESTS STARTED at 2021-10-19 22:13:44.623
+Oct 19, 2021 10:13:44 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:13:44.625
+Oct 19, 2021 10:13:44 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:13:44.644
+Oct 19, 2021 10:13:44 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:13:44.646
+Oct 19, 2021 10:13:44 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:13:44.647
+Oct 19, 2021 10:13:44 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:13:44.648
+Oct 19, 2021 10:13:44 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:13:44.648
+Oct 19, 2021 10:13:44 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:13:44.650
+Oct 19, 2021 10:13:44 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:13:44.652
+Oct 19, 2021 10:13:44 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:13:44.907
+Oct 19, 2021 10:13:44 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:13:44.908
+Oct 19, 2021 10:13:44 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:13:44.911
+Oct 19, 2021 10:13:44 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:13:44.913
+Oct 19, 2021 10:13:44 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:13:44.914
+Oct 19, 2021 10:13:44 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:13:44.917
+Oct 19, 2021 10:13:44 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:13:44.921
+Oct 19, 2021 10:13:44 PM Server.HashServer runTests
+INFO: TEST FINISHED at 2021-10-19 22:13:44.922
+Oct 19, 2021 10:13:55 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:13:55.256
+Oct 19, 2021 10:13:55 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:13:55.262
+Oct 19, 2021 10:13:55 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:13:55.265
+Oct 19, 2021 10:13:55 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:13:55.267
+Oct 19, 2021 10:13:55 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:13:55.270
+Oct 19, 2021 10:13:55 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:13:55.271
+Oct 19, 2021 10:13:55 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:13:55.275
+Oct 19, 2021 10:13:55 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:13:55.278
+Oct 19, 2021 10:13:55 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:13:55.279
+Oct 19, 2021 10:13:55 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:13:55.282
+Oct 19, 2021 10:13:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:13:55.284
+Oct 19, 2021 10:13:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:13:55.286
+Oct 19, 2021 10:13:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:13:55.288
+Oct 19, 2021 10:13:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:13:55.290
+Oct 19, 2021 10:13:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:13:55.291
+Oct 19, 2021 10:13:58 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:13:58.529
+Oct 19, 2021 10:14:00 PM Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-19 22:14:00.935
+Oct 19, 2021 10:14:03 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:14:03.919
+Oct 19, 2021 10:14:09 PM Server.HashServer putHandler
+INFO: Put request for one three at 2021-10-19 22:14:09.257
+Oct 19, 2021 10:14:13 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:14:13.280
+Oct 19, 2021 10:15:41 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:15:41.851
+Oct 19, 2021 10:15:44 PM Server.HashServer getHandler
+INFO: Get request for two at 2021-10-19 22:15:44.995
+Oct 19, 2021 10:15:49 PM Server.HashServer deleteHandler
+INFO: Delete request for one at 2021-10-19 22:15:49.208
+Oct 19, 2021 10:15:52 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:15:52.316
+Oct 19, 2021 10:15:54 PM Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-19 22:15:54.953
+Oct 19, 2021 10:16:07 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:16:07.754
+Oct 19, 2021 10:18:55 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:18:55.523
+Oct 19, 2021 10:18:55 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:18:55.527
+Oct 19, 2021 10:18:55 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:18:55.531
+Oct 19, 2021 10:18:55 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:18:55.533
+Oct 19, 2021 10:18:55 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:18:55.535
+Oct 19, 2021 10:18:55 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:18:55.537
+Oct 19, 2021 10:18:55 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:18:55.539
+Oct 19, 2021 10:18:55 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:18:55.543
+Oct 19, 2021 10:18:55 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:18:55.545
+Oct 19, 2021 10:18:55 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:18:55.548
+Oct 19, 2021 10:18:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:18:55.550
+Oct 19, 2021 10:18:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:18:55.552
+Oct 19, 2021 10:18:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:18:55.556
+Oct 19, 2021 10:18:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:18:55.559
+Oct 19, 2021 10:18:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:18:55.561
+Oct 19, 2021 10:19:00 PM Server.HashServer putHandler
+INFO: Put request for one twon at 2021-10-19 22:19:00.177
+Oct 19, 2021 10:19:04 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:19:04.025
+Oct 19, 2021 10:21:20 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:21:20.336
+Oct 19, 2021 10:21:20 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:21:20.338
+Oct 19, 2021 10:21:20 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:21:20.340
+Oct 19, 2021 10:21:20 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:21:20.343
+Oct 19, 2021 10:21:20 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:21:20.345
+Oct 19, 2021 10:21:20 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:21:20.347
+Oct 19, 2021 10:21:20 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:21:20.349
+Oct 19, 2021 10:21:20 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:21:20.351
+Oct 19, 2021 10:21:20 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:21:20.353
+Oct 19, 2021 10:21:20 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:21:20.355
+Oct 19, 2021 10:21:20 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:21:20.356
+Oct 19, 2021 10:21:20 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:21:20.357
+Oct 19, 2021 10:21:20 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:21:20.359
+Oct 19, 2021 10:21:20 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:21:20.361
+Oct 19, 2021 10:21:20 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:21:20.363
+Oct 19, 2021 10:21:27 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:21:27.575
+Oct 19, 2021 10:21:55 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:21:55.609
+Oct 19, 2021 10:21:55 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:21:55.610
+Oct 19, 2021 10:21:55 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:21:55.612
+Oct 19, 2021 10:21:55 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:21:55.615
+Oct 19, 2021 10:21:55 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:21:55.618
+Oct 19, 2021 10:21:55 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:21:55.619
+Oct 19, 2021 10:21:55 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:21:55.621
+Oct 19, 2021 10:21:55 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:21:55.623
+Oct 19, 2021 10:21:55 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:21:55.625
+Oct 19, 2021 10:21:55 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:21:55.626
+Oct 19, 2021 10:21:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:21:55.628
+Oct 19, 2021 10:21:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:21:55.630
+Oct 19, 2021 10:21:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:21:55.632
+Oct 19, 2021 10:21:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:21:55.633
+Oct 19, 2021 10:21:55 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:21:55.635
+Oct 19, 2021 10:21:58 PM Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-19 22:21:58.599
+Oct 19, 2021 10:23:34 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:23:34.312
+Oct 19, 2021 10:23:34 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:23:34.313
+Oct 19, 2021 10:23:34 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:23:34.315
+Oct 19, 2021 10:23:34 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:23:34.317
+Oct 19, 2021 10:23:34 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:23:34.319
+Oct 19, 2021 10:23:34 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:23:34.321
+Oct 19, 2021 10:23:34 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:23:34.322
+Oct 19, 2021 10:23:34 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:23:34.324
+Oct 19, 2021 10:23:34 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:23:34.325
+Oct 19, 2021 10:23:34 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:23:34.327
+Oct 19, 2021 10:23:34 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:23:34.328
+Oct 19, 2021 10:23:34 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:23:34.331
+Oct 19, 2021 10:23:34 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:23:34.332
+Oct 19, 2021 10:23:34 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:23:34.335
+Oct 19, 2021 10:23:34 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:23:34.337
+Oct 19, 2021 10:23:37 PM Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-19 22:23:37.695
+Oct 19, 2021 10:23:51 PM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-19 22:23:51.556
+Oct 19, 2021 10:23:51 PM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-19 22:23:51.558
+Oct 19, 2021 10:23:51 PM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-19 22:23:51.559
+Oct 19, 2021 10:23:51 PM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-19 22:23:51.561
+Oct 19, 2021 10:23:51 PM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-19 22:23:51.562
+Oct 19, 2021 10:23:51 PM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-19 22:23:51.564
+Oct 19, 2021 10:23:51 PM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-19 22:23:51.565
+Oct 19, 2021 10:23:51 PM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-19 22:23:51.567
+Oct 19, 2021 10:23:51 PM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-19 22:23:51.569
+Oct 19, 2021 10:23:51 PM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-19 22:23:51.570
+Oct 19, 2021 10:23:51 PM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-19 22:23:51.571
+Oct 19, 2021 10:23:51 PM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-19 22:23:51.573
+Oct 19, 2021 10:23:51 PM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-19 22:23:51.575
+Oct 19, 2021 10:23:51 PM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-19 22:23:51.577
+Oct 19, 2021 10:23:51 PM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-19 22:23:51.581
+Oct 19, 2021 10:23:54 PM Server.HashServer putHandler
+INFO: Put request for one two at 2021-10-19 22:23:54.282
+Oct 19, 2021 10:23:56 PM Server.HashServer getHandler
+INFO: Get request for one at 2021-10-19 22:23:56.033
+Oct 20, 2021 11:44:04 AM Server.HashServer <init>
+INFO: Log started at 2021-10-20 11:44:04.005
+Oct 20, 2021 11:44:04 AM Server.HashServer runTests
+INFO: TESTS STARTED at 2021-10-20 11:44:04.081
+Oct 20, 2021 11:44:04 AM Server.HashServer putHandler
+INFO: Put request for test1 1 at 2021-10-20 11:44:04.083
+Oct 20, 2021 11:44:04 AM Server.HashServer putHandler
+INFO: Put request for test2 2 at 2021-10-20 11:44:04.095
+Oct 20, 2021 11:44:04 AM Server.HashServer putHandler
+INFO: Put request for test3 3 at 2021-10-20 11:44:04.097
+Oct 20, 2021 11:44:04 AM Server.HashServer putHandler
+INFO: Put request for test4 4 at 2021-10-20 11:44:04.099
+Oct 20, 2021 11:44:04 AM Server.HashServer putHandler
+INFO: Put request for test5 5 at 2021-10-20 11:44:04.101
+Oct 20, 2021 11:44:04 AM Server.HashServer getHandler
+INFO: Get request for test1 at 2021-10-20 11:44:04.103
+Oct 20, 2021 11:44:04 AM Server.HashServer getHandler
+INFO: Get request for test2 at 2021-10-20 11:44:04.105
+Oct 20, 2021 11:44:04 AM Server.HashServer getHandler
+INFO: Get request for test3 at 2021-10-20 11:44:04.107
+Oct 20, 2021 11:44:04 AM Server.HashServer getHandler
+INFO: Get request for test4 at 2021-10-20 11:44:04.108
+Oct 20, 2021 11:44:04 AM Server.HashServer getHandler
+INFO: Get request for test5 at 2021-10-20 11:44:04.110
+Oct 20, 2021 11:44:04 AM Server.HashServer deleteHandler
+INFO: Delete request for test1 at 2021-10-20 11:44:04.121
+Oct 20, 2021 11:44:04 AM Server.HashServer deleteHandler
+INFO: Delete request for test2 at 2021-10-20 11:44:04.123
+Oct 20, 2021 11:44:04 AM Server.HashServer deleteHandler
+INFO: Delete request for test3 at 2021-10-20 11:44:04.124
+Oct 20, 2021 11:44:04 AM Server.HashServer deleteHandler
+INFO: Delete request for test4 at 2021-10-20 11:44:04.127
+Oct 20, 2021 11:44:04 AM Server.HashServer deleteHandler
+INFO: Delete request for test5 at 2021-10-20 11:44:04.129
+Oct 20, 2021 11:44:04 AM Server.HashServer runTests
+INFO: TEST FINISHED at 2021-10-20 11:44:04.131

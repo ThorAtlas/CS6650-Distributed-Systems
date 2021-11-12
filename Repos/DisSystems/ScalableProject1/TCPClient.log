@@ -1,0 +1,106 @@
+Sep 29, 2021 11:16:28 AM TCPClient main
+INFO: Information message
+Sep 29, 2021 11:16:28 AM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 11:16:28 AM TCPClient main
+INFO: Log started
+Sep 29, 2021 11:16:36 AM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 11:16:36 AM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 11:16:36 AM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 12:54:51 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 12:54:52 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 12:54:52 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 12:54:55 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 12:54:55 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 12:54:55 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 12:59:49 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 12:59:49 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 12:59:49 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 12:59:54 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 12:59:54 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 12:59:54 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 1:13:48 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 1:13:48 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 1:13:48 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 1:13:51 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 1:13:51 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 1:13:51 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 1:16:16 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 1:16:16 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 1:16:16 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 1:16:20 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 1:16:20 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 1:16:20 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 3:24:50 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 3:24:50 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 3:24:50 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 3:49:08 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 3:49:08 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 3:49:08 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 3:49:12 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 3:49:12 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 3:49:12 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 3:49:18 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 3:49:25 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 3:49:25 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 10:13:17 PM TCPClient main
+INFO: Information message
+Sep 29, 2021 10:13:17 PM TCPClient main
+WARNING: Warning message
+Sep 29, 2021 10:13:17 PM TCPClient main
+INFO: Log started
+Sep 29, 2021 10:13:23 PM TCPClient main
+INFO: Attempting to connect to: localhost at port: 1234
+Sep 29, 2021 10:13:23 PM TCPClient main
+INFO: Sending IP address of client to server
+Sep 29, 2021 10:13:23 PM TCPClient main
+INFO: CONNECTED TO SERVER
+Sep 29, 2021 10:13:26 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 10:13:31 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 10:13:32 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 10:14:08 PM TCPClient main
+INFO: Sending request to server
+Sep 29, 2021 10:14:10 PM TCPClient main
+INFO: Sending request to server

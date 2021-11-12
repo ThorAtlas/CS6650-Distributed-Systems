@@ -1,0 +1,12 @@
+Oct 20, 2021 11:48:10 AM Server.HashClient main
+INFO: Log started at 2021-10-20 11:48:10.696
+Oct 20, 2021 11:48:10 AM Server.HashClient main
+INFO: Connected to hashservice via RMI at2021-10-20 11:48:10.944
+Oct 20, 2021 11:48:10 AM Server.HashClient runTests
+INFO: TESTS STARTED at 2021-10-20 11:48:10.955
+Oct 20, 2021 11:48:11 AM Server.HashClient runTests
+INFO: TEST FINISHED at 2021-10-20 11:48:11.006
+Oct 20, 2021 11:48:16 AM Server.HashClient main
+INFO: ADDED PAIR one : two at 2021-10-20 11:48:16.341
+Oct 20, 2021 11:48:19 AM Server.HashClient main
+INFO: Successful get request for one at 2021-10-20 11:48:19.292

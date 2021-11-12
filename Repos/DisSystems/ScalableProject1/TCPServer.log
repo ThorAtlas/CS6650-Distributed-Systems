@@ -1,0 +1,510 @@
+Sep 29, 2021 11:16:14 AM TCPServer main
+INFO: Information message
+Sep 29, 2021 11:16:14 AM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 11:16:14 AM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 11:16:32 AM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 11:16:36 AM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 12:54:45 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 12:54:45 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 12:54:45 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 12:54:48 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 12:54:55 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 12:54:55 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 12:54:55 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 12:54:55 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:59:42 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 12:59:42 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 12:59:42 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 12:59:45 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 12:59:54 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 12:59:54 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 12:59:54 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 12:59:54 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:13:43 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 1:13:43 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 1:13:43 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 1:13:45 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 1:13:51 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 1:13:51 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 1:13:51 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 1:13:51 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:16:08 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 1:16:08 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 1:16:08 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 1:16:11 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 1:16:20 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 1:16:20 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 1:16:20 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 1:16:20 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:23:01 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:23:02 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:23:02 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:23:11 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 3:24:41 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:24:41 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:24:41 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:24:45 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 3:32:07 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:32:07 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:32:07 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:32:11 PM TCPServer main
+INFO: Port set to: 123
+Sep 29, 2021 3:34:13 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:34:13 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:34:13 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:34:21 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 3:37:08 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:37:08 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:37:08 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:37:12 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 3:47:40 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:47:40 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:47:40 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:48:59 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 3:48:59 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 3:48:59 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 3:49:02 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 3:49:12 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 3:49:12 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 3:49:12 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 3:49:12 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 3:49:18 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUT1:one
+Sep 29, 2021 3:49:18 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 3:49:25 PM TCPServer main
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request is invalid
+Sep 29, 2021 3:49:25 PM TCPServer main
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request is invalid
+Sep 29, 2021 9:47:12 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 9:47:12 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 9:47:12 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 10:13:08 PM TCPServer main
+INFO: Information message
+Sep 29, 2021 10:13:08 PM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 10:13:08 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 10:13:19 PM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 10:13:23 PM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest1:1
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest2:2
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest3:3
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest4:4
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTtest5:5
+Sep 29, 2021 10:13:23 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test1
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test2
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test3
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test4
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET test5
+Sep 29, 2021 10:13:23 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test1
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test2
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test3
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test4
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: DELETE test5
+Sep 29, 2021 10:13:23 PM TCPServer deleteHandler
+INFO: DELETED KEYPAIR
+Sep 29, 2021 10:13:26 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTone:two
+Sep 29, 2021 10:13:26 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:31 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTone:z
+Sep 29, 2021 10:13:31 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:13:32 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET one
+Sep 29, 2021 10:13:32 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY
+Sep 29, 2021 10:14:08 PM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUTone:five
+Sep 29, 2021 10:14:08 PM TCPServer putHandler
+INFO: ADDED KEY-PAIR
+Sep 29, 2021 10:14:10 PM TCPServer getHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: GET one
+Sep 29, 2021 10:14:10 PM TCPServer getHandler
+INFO: GOT VALUE FROM KEY

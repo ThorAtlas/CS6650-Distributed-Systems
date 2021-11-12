@@ -1,0 +1,22 @@
+Sep 27, 2021 10:55:20 PM TCPServer main
+INFO: Information message
+Sep 27, 2021 10:55:20 PM TCPServer main
+WARNING: Warning message
+Sep 27, 2021 10:55:20 PM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 11:12:39 AM TCPServer main
+INFO: Information message
+Sep 29, 2021 11:12:39 AM TCPServer main
+WARNING: Warning message
+Sep 29, 2021 11:12:39 AM TCPServer main
+INFO: Logging has started
+Sep 29, 2021 11:13:30 AM TCPServer main
+INFO: Port set to: 1234
+Sep 29, 2021 11:13:39 AM TCPServer main
+INFO: Client connected from localhost/127.0.0.1
+Sep 29, 2021 11:13:43 AM TCPServer putHandler
+WARNING: Not enough input to put new keypair
+Sep 29, 2021 11:13:53 AM TCPServer putHandler
+INFO: Client: IP: localhost/127.0.0.1 Port: 1234 request: PUT5:10
+Sep 29, 2021 11:13:53 AM TCPServer putHandler
+INFO: ADDED KEY-PAIR
