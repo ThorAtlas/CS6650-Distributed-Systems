@@ -22,6 +22,7 @@ public class HashClient implements HashClientInterface, Serializable {
   private static String[] inputList;
   private static HashInterface hashServer;
   private static InetAddress CLIENTID;
+  // hello we are testing
 
   /**
    * A constructor method
