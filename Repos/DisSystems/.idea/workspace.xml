@@ -1,150 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd58a6b-1547-4fa7-b7b6-9e9fab3f0ad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/5004FridayUpdate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../AllNighter/AllNighter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FINAL/FINAL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java-animator-master/9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../New folder/SaturdayProject0424AK 3/SaturdayProject0424AK 3/SaturdayProject0424.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python/Align/.idea/Align.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/5004FridayUpdate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5004FridayUpdate (1)/5004FridayUpdate/5004FridayUpdate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5004Sunday123 AK edits/5004FridayUpdate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoParticipation/AlgoParticipation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/ActualAnswers/ConnectedComponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/ActualAnswers/ForestTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/ActualAnswers/KruskalMinimumSpanningForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/EdgeWeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/EdgeWeightedGraphInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/IndexMinPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/PrimMSF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/PriorityQueueResize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question1/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question2/DirectedEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question2/EdgeWeightedDigraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question2/EdgeWeightedDigraphInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question3/Alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question3/AlphabetQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question3/MostSignificantDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question3/SeparateChainingHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question3/SequentialSearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffHasIssuesPleaseSeeTestingComment/NodeTST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffHasIssuesPleaseSeeTestingComment/NodeTrie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffHasIssuesPleaseSeeTestingComment/TST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffHasIssuesPleaseSeeTestingComment/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffHasIssuesPleaseSeeTestingComment/TrieST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffWithHelp/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffWithHelp/TernarySearchTrieGithub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgoSummerFinalExam/src/Question4/MyStuffWithHelp/TrieGithub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AnimationStuff/AnimationView.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/TCPMultiThreadsServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/Ignore/JMSQueueMessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/Ignore/JMSQueueReceiever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/Ignore/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/RMIHW/SortClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/RMIHW/SortImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/RMIHW/SortRMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/RMIHW/SortServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/TopicFirstcodingQuestion/DurableSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/TopicFirstcodingQuestion/MavenPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMSHW4/src/main/java/TopicFirstcodingQuestion/SubscriberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/HashClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/HashClientInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/HashInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/HashServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2/src/Server/HashServerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScalableProject1/src/Clients/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScalableProject1/src/Clients/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScalableProject1/src/Servers/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScalableProject1/src/Servers/UDPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Everythingelse/Animations/Animations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectRedo4232021/ProjectRedo4232021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SummerAlgosMidterm/src/newTestNoRedNoCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sunday123EDitsPt2/5004Sunday123 AKJ edits/5004FridayUpdate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iansdoasndlkasda/RBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../iansdoasndlkasda/src/RBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sdfsdfsdfsdf/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sdfsdfsdfsdf/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sdfsdfsdfsdf/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sdfsdfsdfsdf/src/Question4GitHubCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sdfsdfsdfsdf/src/Question4NoContradictions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tesdttttttt/tesdttttttt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testtttting/testtttting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/SaturdayProject0424.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TikTakToeLab (1)/TikTakToeLab/TikTakToeLab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/animations/SetStationary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/animations/SetStationary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/builder/AnimationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/builder/AnimationBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/builder/AnimationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/builder/AnimationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/test/TestAnimationShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AllNighter/5004Sunday123 AKJ edits/test/TestAnimationShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/StarTimeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/StarTimeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/animations/SetStationary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/model/animations/SetStationary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/views/VisualView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../419Overtime/5004Sunday123 AKJ edits/src/ezpeasyanimator/views/VisualView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgoParticipation/src/BagArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgoParticipation/src/BagArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgoParticipation/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgoParticipation/src/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgoParticipation/src/QueueLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgoParticipation/src/QueueLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgoParticipation/src/Quiz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgoParticipation/src/Quiz2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/animations/IAnimation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/animations/TypeOfAnimation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/shapes/AbstractShapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/shapes/IShapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/shapes/TypeOfShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FINALProjectAttempt/src/model/shapes/TypeOfValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/IAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/IAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetStationary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/SetStationary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/TypeOfAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/animations/TypeOfAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/AnimationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/AnimationModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/IAnimationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/builder/IAnimationModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/AbstractShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/AbstractShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/Ellipse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/IShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/IShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/TypeOfShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/model/shapes/TypeOfShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/DrawingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/DrawingPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/IView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/IView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/SVGView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/SVGView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/ViewFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/ViewFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/VisualView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectRedo4232021/src/views/VisualView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question3Pt2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerAlgosMidterm/src/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tesdttttttt/src/EncryptionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tesdttttttt/src/EncryptionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tesdttttttt/src/RoundRobin1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tesdttttttt/src/RoundRobin1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tesdttttttt/src/SpyKid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tesdttttttt/src/SpyKid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/GrandPuppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/GrandPuppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/Hybrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/HybridIntermediate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/HybridIntermediate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/Puppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttting/src/TestingSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testtttting/src/TestingSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/IAnimation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/IView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/TypeOfView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/draw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/shapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/src/tic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testtttttttttttttShapes/test/ticTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/builder/EasyAnimator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/builder/EasyAnimator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/controller/ControllerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/controller/ControllerView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/shapes/TypeOfValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SaturdayProject0424AK/SaturdayProject0424AK/src/cs5004/shapes/TypeOfValue.java" afterDir="false" />
-    </list>
+    <list default="true" id="1dd58a6b-1547-4fa7-b7b6-9e9fab3f0ad0" name="Default Changelist" comment="creation of dis repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632782897167</updated>
     </task>
+    <task id="LOCAL-00001" summary="creation of dis repo">
+      <created>1636694223436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636694223436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +126,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation of dis repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation of dis repo" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
