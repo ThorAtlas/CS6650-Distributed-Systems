@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.Serializable;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+import java.rmi.Naming;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
@@ -117,7 +118,7 @@ public class HashClient implements HashClientInterface, Serializable {
 
   public static void main(String[] args) throws IOException {
     HashClient client = null;
-    String hostName = "my-hashserver";
+    String hostName = "localhost";//"my-hashserver";
     int port = 1099;
     if(args.length == 1){
       hostName = args[0];
@@ -151,7 +152,7 @@ public class HashClient implements HashClientInterface, Serializable {
 
     } catch (Exception e) {
       LOGGER.log(Level.WARNING, "Unsuccessful connection");
-      System.out.println("Not making it" + e);
+      System.out.println("Not making it " + e);
     }
 
 

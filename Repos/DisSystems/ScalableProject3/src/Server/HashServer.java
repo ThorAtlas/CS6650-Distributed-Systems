@@ -2,6 +2,7 @@ package Server;
 
 
 import java.io.IOException;
+import java.net.InetAddress;
 import java.rmi.RemoteException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -12,7 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class HashServer extends java.rmi.server.UnicastRemoteObject implements HashInterface{
+public class HashServer extends java.rmi.server.UnicastRemoteObject implements HashServerInterface {
 
   private final static Logger LOGGER = Logger.getLogger(HashServer.class.getName());
   private static ConcurrentHashMap<String, String> keyPairMap =
@@ -23,14 +24,21 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
     return new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS").format(new Date());
   }
 
+  private static InetAddress SERVERID;
+  private static ControllerInterface controller;
+
 
   /**
    * Constructor for the hashserver
    * @throws IOException
    */
-  protected HashServer() throws IOException {
+  protected HashServer(ControllerInterface controller) throws IOException {
     super();
     clientArrayList = new ArrayList<>();
+    this.controller = controller;
+    SERVERID = InetAddress.getLocalHost();
+    controller.registerServer((HashServerInterface) this);
+
 
     //creates the file handler that'll output the log and then format it properly
     FileHandler fileHandler = new FileHandler("HashServer.log", true);
@@ -89,6 +97,14 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
     return output;
 
   }
+
+  @Override
+  public synchronized ServerResponse getResponse() throws RemoteException {
+    return ServerResponse.COMMIT;
+  }
+
+  //todo implement the controller check that will call the controller for an commit/abort check
+
 
   /**
    * Testing functions to make sure server runs properly

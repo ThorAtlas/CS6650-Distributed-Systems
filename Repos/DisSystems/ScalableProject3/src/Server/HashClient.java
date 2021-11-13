@@ -20,7 +20,7 @@ public class HashClient implements HashClientInterface, Serializable {
   private final static Logger LOGGER = Logger.getLogger(HashClient.class.getName());
   private static String request;
   private static String[] inputList;
-  private static HashInterface hashServer;
+  private static HashServerInterface hashServer;
   private static InetAddress CLIENTID;
   // hello we are testing
 
@@ -30,7 +30,7 @@ public class HashClient implements HashClientInterface, Serializable {
    * @throws UnknownHostException
    * @throws RemoteException
    */
-  public HashClient(HashInterface hashServer) throws UnknownHostException, RemoteException {
+  public HashClient(HashServerInterface hashServer) throws UnknownHostException, RemoteException {
     this.hashServer = hashServer;
     CLIENTID = InetAddress.getLocalHost();
     hashServer.registerClient((HashClientInterface) this);
@@ -117,7 +117,9 @@ public class HashClient implements HashClientInterface, Serializable {
 
   public static void main(String[] args) throws IOException {
     HashClient client = null;
-    String hostName = "my-hashserver";
+    //todo need to change hostname once implementing docker stuff
+    String hostName = "localhost";//"my-hashserver";
+    //defualt port for a server is 1099
     int port = 1099;
     if(args.length == 1){
       hostName = args[0];
@@ -144,7 +146,7 @@ public class HashClient implements HashClientInterface, Serializable {
      */
     try {
       Registry registry = LocateRegistry.getRegistry(hostName, port);
-      client = new HashClient((HashInterface) registry.lookup("HashService"));
+      client = new HashClient((HashServerInterface) registry.lookup("HashService"));
       LOGGER.log(Level.INFO, "Connected to hashservice via RMI at" + getCurrentTimeStamp());
       //here's the portion we'd call the functions from
       runTests();
