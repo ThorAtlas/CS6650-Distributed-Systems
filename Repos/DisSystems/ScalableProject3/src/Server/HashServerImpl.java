@@ -10,12 +10,10 @@ import java.util.Scanner;
 public class HashServerImpl {
   public static void main(String args[]) throws IOException {
 
-    //todo will need to edit this so that an argument can be made for the hostname
-    //of the controller
     int port = 1099;
 
     //todo will need to change controller hostname also with docker stuff
-    String controllerHost = "localhost";//"Controller";
+    String controllerHost = "localhost";//docker host name goes here
     int controllerPort = 1111;
     HashServerInterface server = null;
 
@@ -36,11 +34,6 @@ public class HashServerImpl {
 
 
     try {
-      //need to fix here for the controller situation
-      //todo fix server implementation here
-      //server = new HashServer();
-      //runs the tests for the server
-      //((HashServer) server).runTests();
 
       //todo need to change this when implementing docker this is for testing purposes
       System.out.println("What port do you want to assign this server?");
@@ -50,6 +43,8 @@ public class HashServerImpl {
       Registry controllerRegistery =
               LocateRegistry.getRegistry(controllerHost, controllerPort);
       server = new HashServer((ControllerInterface) controllerRegistery.lookup("Controller"));
+
+      ((HashServer) server).runTests();
 
       //binds the Server's port to the port given when called
       Registry serverRegistry = LocateRegistry.createRegistry(port);

@@ -75,15 +75,25 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
 
   }
 
+  /**
+   * Put handler that the controller will call
+   * @param key
+   * @param value
+   * @throws RemoteException
+   */
   public void serverPutHandler(String key, String value) throws RemoteException{
-    LOGGER.log(Level.INFO, "Put request for " + key + " "
+    LOGGER.log(Level.INFO, "Put completed for " + key + " "
             + value + " at " + getCurrentTimeStamp());
     keyPairMap.put(key, value);
-    System.out.println(keyPairMap.toString());
   }
 
+  /**
+   * The delete handler that the controller will call
+   * @param key
+   * @throws RemoteException
+   */
   public void serverDeleteHandler(String key) throws RemoteException{
-    LOGGER.log(Level.INFO, "Get request for " + key + " at " + getCurrentTimeStamp());
+    LOGGER.log(Level.INFO, "Delete completed for " + key + " at " + getCurrentTimeStamp());
     try{
       keyPairMap.remove(key);
     }catch (Exception e){
@@ -107,14 +117,16 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
   }
 
 
-
+  /**
+   * This message is given to the controller stating that the server is ready for a commit
+   * @return a commit message if the server is ready for a commit or not
+   * @throws RemoteException
+   */
   @Override
-  public ServerResponse getResponse() throws RemoteException {
+  public ServerResponse giveResponse() throws RemoteException {
     LOGGER.log(Level.INFO, "Return commit to server at " + getCurrentTimeStamp());
     return ServerResponse.COMMIT;
   }
-
-  //todo implement the controller check that will call the controller for an commit/abort check
 
 
   /**

@@ -10,7 +10,7 @@ public interface HashServerInterface extends Remote {
   String[] putHandler(String key, String value) throws RemoteException;
   String[] getHandler(String key) throws RemoteException;
   String[] deleteHandler(String key) throws RemoteException;
-  ServerResponse getResponse() throws RemoteException;
+  ServerResponse giveResponse() throws RemoteException;
 
   void serverPutHandler(String key, String value) throws RemoteException;
   void serverDeleteHandler(String key) throws RemoteException;

@@ -117,8 +117,11 @@ public class HashClient implements HashClientInterface, Serializable {
 
   public static void main(String[] args) throws IOException {
     HashClient client = null;
+
     //todo need to change hostname once implementing docker stuff
     String hostName = "localhost";//"my-hashserver";
+
+
     //defualt port for a server is 1099
     int port = 1099;
     if(args.length == 1){
@@ -153,9 +156,7 @@ public class HashClient implements HashClientInterface, Serializable {
       Registry registry = LocateRegistry.getRegistry(hostName, port);
       client = new HashClient((HashServerInterface) registry.lookup("HashService"));
       LOGGER.log(Level.INFO, "Connected to hashservice via RMI at" + getCurrentTimeStamp());
-      //here's the portion we'd call the functions from
-      //todo don't forget to include tests
-      //runTests();
+      runTests();
 
     } catch (Exception e) {
       LOGGER.log(Level.WARNING, "Unsuccessful connection");
@@ -194,10 +195,14 @@ public class HashClient implements HashClientInterface, Serializable {
           }
 
           try{
-            client.clientPutHandler(inputList[1], inputList[2]);
-            System.out.println("ADDED PAIR " + inputList[1] + " : " + inputList[2]);
-            LOGGER.log(Level.INFO, "ADDED PAIR " + inputList[1] + " : "
-                + inputList[2] + " at " + getCurrentTimeStamp());
+            if(client.clientPutHandler(inputList[1], inputList[2])[0].equalsIgnoreCase("true")) {
+              System.out.println("ADDED PAIR " + inputList[1] + " : " + inputList[2]);
+              LOGGER.log(Level.INFO, "ADDED PAIR " + inputList[1] + " : "
+                      + inputList[2] + " at " + getCurrentTimeStamp());
+            }
+            else{
+              LOGGER.log(Level.WARNING, "Unsuccessful put request at " + getCurrentTimeStamp());
+            }
           }catch (Exception e){
             LOGGER.log(Level.WARNING, "Unsuccessful put request at " + getCurrentTimeStamp());
           }
@@ -225,9 +230,14 @@ public class HashClient implements HashClientInterface, Serializable {
             break;
           }
           try{
-            System.out.println(client.clientDeleteHandler(inputList[1])[1]);
-            LOGGER.log(Level.INFO, "Successful delete request of " + inputList[1]
-                + "at " + getCurrentTimeStamp());
+            if(client.clientDeleteHandler(inputList[1])[0].equalsIgnoreCase("true")) {
+              LOGGER.log(Level.INFO, "Successful delete request of " + inputList[1]
+                      + "at " + getCurrentTimeStamp());
+            }
+            else{
+              LOGGER.log(Level.INFO, "Unsuccessful delete request of " + inputList[1]
+                      + "at " + getCurrentTimeStamp());
+            }
           }catch (Exception e){
             LOGGER.log(Level.INFO, "Unsuccessful delete request of " + inputList[1]
                 + "at " + getCurrentTimeStamp());
