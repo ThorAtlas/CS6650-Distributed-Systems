@@ -2,6 +2,7 @@ package Server;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
+import java.util.logging.Level;
 
 public interface HashServerInterface extends Remote {
 
@@ -10,6 +11,9 @@ public interface HashServerInterface extends Remote {
   String[] getHandler(String key) throws RemoteException;
   String[] deleteHandler(String key) throws RemoteException;
   ServerResponse getResponse() throws RemoteException;
+
+  void serverPutHandler(String key, String value) throws RemoteException;
+  void serverDeleteHandler(String key) throws RemoteException;
 
   //Method to register the client to the server's list
   void registerClient(HashClientInterface client) throws RemoteException;

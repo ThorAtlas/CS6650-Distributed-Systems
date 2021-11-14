@@ -6,7 +6,7 @@ import java.rmi.RemoteException;
 public interface ControllerInterface extends Remote {
 
   void registerServer(HashServerInterface hasServer) throws RemoteException;
-//  public void getResponses();
-//  public void pushDelete();
-//  public void pushPut();
+  public boolean getResponses() throws RemoteException;
+  public boolean pushDelete(String key) throws RemoteException;
+  public boolean pushPut(String key, String value) throws RemoteException;
 }

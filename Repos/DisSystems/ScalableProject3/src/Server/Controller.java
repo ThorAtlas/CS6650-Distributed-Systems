@@ -5,6 +5,7 @@ import java.rmi.RemoteException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.SimpleFormatter;
@@ -71,30 +72,80 @@ public class Controller extends java.rmi.server.UnicastRemoteObject  implements 
 
   }
 
-  public synchronized void getResponses() {
-    ArrayList<ServerResponse> serverResponses = new ArrayList<>();
+
+
+  //todo check getResponses work by having it be called in the implementation
+  public boolean getResponses() {
+    List<ServerResponse> serverResponses = new ArrayList<>();
     for (int i = 0; i< listOfServers.size(); i++){
       serverResponses.add(ServerResponse.ABORT);
     }
     for(int i = 0; i< listOfServers.size(); i++){
       try{
         LOGGER.log(Level.INFO, "Getting Responses from servers at " + getCurrentTimeStamp());
-        listOfResponses.set(i,listOfServers.get(i).getResponse());
+
+        //getting stuck right the hearing back portion
+        ServerResponse response = listOfServers.get(i).getResponse();
+        serverResponses.set(i,response);
+        LOGGER.log(Level.INFO, "Set the response");
       } catch (RemoteException e) {
         LOGGER.log(Level.WARNING, "Unable to get a response from a server at " + getCurrentTimeStamp());
         e.printStackTrace();
       }
     }
 
-    System.out.println(serverResponses.toString());
+    for (int i =0; i < listOfResponses.size(); i++){
+      if(serverResponses.get(i).equals(ServerResponse.ABORT)){
+        return false;
+      }
+    }
+    return true;
   }
 
-  public void pushDelete() {
+  @Override
+  public synchronized boolean pushDelete(String key) throws RemoteException {
+    if (getResponses()){
+      try {
+        //todo edit logs to be properly documenting
+        LOGGER.log(Level.INFO, "Server is calling delete on the servers");
+        for (int i = 0; i < listOfServers.size(); i++) {
+          listOfServers.get(i).serverDeleteHandler(key);
+        }
+        return true;
+      } catch (Exception e) {
+        LOGGER.log(Level.INFO, "Server failed to delete key from servers");
+        return false;
+      }
+    }
+    else {
+      LOGGER.log(Level.INFO, "Server failed to delete key from servers");
+      return false;
+    }
+  }
+
+  @Override
+  public synchronized boolean pushPut(String key, String value) throws RemoteException {
+    if (getResponses()) {
+      try {
+        //todo edit logs to be properly documenting
+        LOGGER.log(Level.INFO, "Server is calling push on the servers at " + getCurrentTimeStamp());
+        for (int i = 0; i < listOfServers.size(); i++) {
+          listOfServers.get(i).serverPutHandler(key, value);
+        }
+        LOGGER.log(Level.INFO, "Server pushed key-pair to servers at "+ getCurrentTimeStamp());
+        return true;
+      } catch (Exception e) {
+        LOGGER.log(Level.INFO, "Server failed to push key-pair to servers at " + getCurrentTimeStamp());
+        return false;
+      }
+
+    }
+    else {
+      LOGGER.log(Level.INFO, "Server failed to push key-pair to servers at " + getCurrentTimeStamp());
+      return false;
+    }
 
   }
 
-  public void pushPut() {
-
-  }
 
 }

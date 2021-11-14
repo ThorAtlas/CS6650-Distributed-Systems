@@ -139,6 +139,11 @@ public class HashClient implements HashClientInterface, Serializable {
     LOGGER.log(Level.INFO, "Log started at " + getCurrentTimeStamp());
     Scanner scanner = new Scanner((System.in));
 
+    //todo change this after done with testing
+    System.out.println("What server port do you want to connect to?");
+    port = Integer.parseInt(scanner.nextLine());
+
+
 
 
     /**
@@ -149,7 +154,8 @@ public class HashClient implements HashClientInterface, Serializable {
       client = new HashClient((HashServerInterface) registry.lookup("HashService"));
       LOGGER.log(Level.INFO, "Connected to hashservice via RMI at" + getCurrentTimeStamp());
       //here's the portion we'd call the functions from
-      runTests();
+      //todo don't forget to include tests
+      //runTests();
 
     } catch (Exception e) {
       LOGGER.log(Level.WARNING, "Unsuccessful connection");

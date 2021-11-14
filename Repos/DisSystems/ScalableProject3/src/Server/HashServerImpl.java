@@ -44,7 +44,7 @@ public class HashServerImpl {
 
       //todo need to change this when implementing docker this is for testing purposes
       System.out.println("What port do you want to assign this server?");
-      controllerPort = Integer.parseInt(scanner.nextLine());
+      port = Integer.parseInt(scanner.nextLine());
 
       //gets the controllerRegistry and object and links it to the HashServer
       Registry controllerRegistery =

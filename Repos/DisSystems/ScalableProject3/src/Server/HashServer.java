@@ -59,12 +59,35 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
   @Override
   public synchronized String[] putHandler(String key, String value) throws RemoteException {
     String[] output = new String[2];
-    output[0] = "false";
-    LOGGER.log(Level.INFO, "Put request for " + key + " "
-        + value + " at " + getCurrentTimeStamp());
-    output[0] = "true";
-    output[1] = keyPairMap.put(key, value);
+    LOGGER.log(Level.INFO, "Asking controller for put at " + getCurrentTimeStamp());
+    if(controller.pushPut(key,value)){ output[0] = "true"; }
+    else{output[0] = "false";}
     return output;
+  }
+
+  @Override
+  public synchronized String[] deleteHandler(String key) throws RemoteException {
+    LOGGER.log(Level.INFO, "Delete request for " + key + " at " + getCurrentTimeStamp());
+    String[] output = new String[2];
+    if(controller.pushDelete(key)){ output[0] = "true"; }
+    else{output[0] = "false";}
+    return output;
+
+  }
+
+  public void serverPutHandler(String key, String value) throws RemoteException{
+    LOGGER.log(Level.INFO, "Put request for " + key + " "
+            + value + " at " + getCurrentTimeStamp());
+    keyPairMap.put(key, value);
+    System.out.println(keyPairMap.toString());
+  }
+
+  public void serverDeleteHandler(String key) throws RemoteException{
+    LOGGER.log(Level.INFO, "Get request for " + key + " at " + getCurrentTimeStamp());
+    try{
+      keyPairMap.remove(key);
+    }catch (Exception e){
+    }
   }
 
   @Override
@@ -83,23 +106,11 @@ public class HashServer extends java.rmi.server.UnicastRemoteObject implements H
 
   }
 
-  @Override
-  public synchronized String[] deleteHandler(String key) throws RemoteException {
-    LOGGER.log(Level.INFO, "Delete request for " + key + " at " + getCurrentTimeStamp());
-    String[] output = new String[2];
-    output[0] = "false";
-    try{
-      output[0] = "true";
-      output[1] = keyPairMap.remove(key);
-    }catch (Exception e){
-      output[0] = "false";
-    }
-    return output;
 
-  }
 
   @Override
-  public synchronized ServerResponse getResponse() throws RemoteException {
+  public ServerResponse getResponse() throws RemoteException {
+    LOGGER.log(Level.INFO, "Return commit to server at " + getCurrentTimeStamp());
     return ServerResponse.COMMIT;
   }
 
