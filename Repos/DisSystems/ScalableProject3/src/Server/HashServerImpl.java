@@ -13,22 +13,27 @@ public class HashServerImpl {
     int port = 1099;
 
     //todo will need to change controller hostname also with docker stuff
-    String controllerHost = "localhost";//docker host name goes here
+    String controllerHost = "localhost"; //"my-controllerserver";//"localhost";//docker host name goes here
     int controllerPort = 1111;
     HashServerInterface server = null;
 
     //if only one argument is given then the default port of the controller
     //remains 1111
     if(args.length == 1){
-      port = Integer.parseInt(args[0]);
+      controllerPort = Integer.parseInt(args[0]);
     }
 
     //Allows for 2 arguments for custom ports
     if(args.length == 2){
-      port = Integer.parseInt(args[0]);
-      controllerPort = Integer.parseInt(args[1]);
+      port = Integer.parseInt(args[1]);
+      controllerPort = Integer.parseInt(args[0]);
     }
 
+    if(args.length ==3){
+      port = Integer.parseInt(args[1]);
+      controllerPort = Integer.parseInt(args[0]);
+      controllerHost = args[3];
+    }
     Scanner scanner = new Scanner((System.in));
 
 
@@ -38,7 +43,6 @@ public class HashServerImpl {
       //todo need to change this when implementing docker this is for testing purposes
       System.out.println("What port do you want to assign this server?");
       port = Integer.parseInt(scanner.nextLine());
-
       //gets the controllerRegistry and object and links it to the HashServer
       Registry controllerRegistery =
               LocateRegistry.getRegistry(controllerHost, controllerPort);

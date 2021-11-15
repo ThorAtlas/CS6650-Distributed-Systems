@@ -6,6 +6,8 @@ HASHSERVER_CONTAINER='my-hashserver'
 CLIENT_IMAGE='project3-hashclient-image'
 CLIENT_CONTAINER='my-hashclient'
 
+
+
 # clean up existing resources, if any
 echo "----------Cleaning up existing resources----------"
 docker container stop $CONTROLLER_CLIENT_CONTAINER 2> /dev/null && docker container rm $CONTROLLER_CLIENT_CONTAINER 2> /dev/null
@@ -18,10 +20,10 @@ POSTIMPORT=1099
 if [ $# -eq 1 ]
 then
   CONTROLLERIMPORT="$1"
-elif [ $# -eq 2 ]
-then
-  POSTIMPORT="$2"
-  CONTROLLERIMPORT="$1"
+#elif [ $# -eq 2 ]
+#then
+#  POSTIMPORT="$2"
+#  CONTROLLERIMPORT="$1"
 fi
 
 
@@ -40,9 +42,9 @@ echo "----------Running sever app----------"
 docker run --name \
 $CONTROLLER_CLIENT_CONTAINER --network $PROJECT_NETWORK $SERVER_IMAGE java Server/ControllerImpl \
 "$CONTROLLERIMPORT"
-docker run --name \
-$HASHSERVER_CONTAINER --network $PROJECT_NETWORK $SERVER_IMAGE java Server/HashServerImpl \
-"$POSTIMPORT" "$CONTROLLERIMPORT"
+#docker run --name \
+#$HASHSERVER_CONTAINER --network $PROJECT_NETWORK $SERVER_IMAGE java Server/HashServerImpl \
+#"$POSTIMPORT" "$CONTROLLERIMPORT"
 
 
 #docker run -d -p 1234:1234/udp --name $UDPSERVER_CONTAINER --network $PROJECT_NETWORK $UDPSERVER_IMAGE
