@@ -1,5 +1,6 @@
 package Server;
 
+import Server.Paxos.ServerResponse;
 import java.rmi.RemoteException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

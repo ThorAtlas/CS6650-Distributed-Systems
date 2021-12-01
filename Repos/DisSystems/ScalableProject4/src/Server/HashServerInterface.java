@@ -1,8 +1,8 @@
 package Server;
 
+import Server.Paxos.ServerResponse;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
-import java.util.logging.Level;
 
 public interface HashServerInterface extends Remote {
 

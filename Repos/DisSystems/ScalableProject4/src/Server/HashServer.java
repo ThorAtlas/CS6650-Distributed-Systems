@@ -1,6 +1,7 @@
 package Server;
 
 
+import Server.Paxos.ServerResponse;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.rmi.RemoteException;
