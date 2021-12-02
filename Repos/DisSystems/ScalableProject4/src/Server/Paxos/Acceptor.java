@@ -11,4 +11,5 @@ public interface Acceptor {
   void receiveProposal(ProposalObject proposal);
   void receiveIssue(ProposalObject proposal) throws RemoteException;
 
+
 }

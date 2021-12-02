@@ -1,6 +1,7 @@
 package Server.Paxos;
 
 import Server.Commands.Command;
+import java.rmi.RemoteException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,7 +27,7 @@ public class Proposer implements ProposerInterface {
     acceptor.receiveProposal(proposal);
   }
 
-  public void issueProposal(Acceptor acceptor, ProposalObject proposal){
+  public void issueProposal(Acceptor acceptor, ProposalObject proposal) throws RemoteException {
     acceptor.receiveIssue(proposal);
   }
 
