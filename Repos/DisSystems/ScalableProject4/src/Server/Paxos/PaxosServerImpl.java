@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Scanner;
 
 public class PaxosServerImpl {
 
@@ -19,11 +20,24 @@ public class PaxosServerImpl {
      */
     Map<Integer, PaxosInterface> listOfServer = new HashMap<>();
 
+
+//    Scanner scanner = new Scanner(System.in);
+//    System.out.println("Whats are the ports of servers you'd like? sepereate by a space each");
+//    String input = scanner.nextLine();
+//    String[] commandsInputs = input.split(" ");
+
+//    for(String port : commandsInputs){
+//      Integer portValue = Integer.valueOf(port);
+//      listOfServer.put(portValue, null);
+//    }
+
+
     //Adds the port vlaues to the hashmap
     for(String port : args){
       Integer portValue = Integer.valueOf(port);
       listOfServer.put(portValue, null);
     }
+
     //Now we have to create each server and set it to that port value
     for(Integer port: listOfServer.keySet()){
       PaxosServer server = new PaxosServer(listOfServer, port);

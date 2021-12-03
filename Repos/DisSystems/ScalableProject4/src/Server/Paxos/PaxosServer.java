@@ -404,7 +404,4 @@ public class PaxosServer extends java.rmi.server.UnicastRemoteObject implements 
 
 }
 //todo implement logger
-//todo implement timeouts
-//todo PaxosServer implementation
-//todo comment the return statements
 
